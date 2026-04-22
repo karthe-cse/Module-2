@@ -16,7 +16,7 @@ print("Decimal:", num)
 print("Binary:", binary_value)
 ```
 ## Output
-<img width="423" height="267" alt="image" src="https://github.com/user-attachments/assets/31564330-3b45-400b-9435-344d09cbfa71" />
+<img width="423" height="267" alt="Screenshot 2026-04-22 113135" src="https://github.com/user-attachments/assets/5135bc76-9ba5-404e-b7b5-ed8a66369b20" />
 
 ## Result
 Hence the python program is executed sucessfully
